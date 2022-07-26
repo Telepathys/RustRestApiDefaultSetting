@@ -1,9 +1,10 @@
-# B2cBackendKotlinDefault-Setting
+# RustRestApiDefaultSetting
 ## Run
 
 ### Locally
 
 
 ```bash
-cargo run
+docker-compose up --build
+wait 2~3 minute
 ```
